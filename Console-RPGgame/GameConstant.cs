@@ -14,7 +14,7 @@ namespace Console_RPGgame
         Fighter,
         Assasin
     }
-    internal class GameConstant
+    public class GameConstant
     {
     }
 }
