@@ -1,0 +1,10 @@
+D:\RPG game\Console-RPGgame\bin\Debug\Console-RPGgame.exe.config
+D:\RPG game\Console-RPGgame\bin\Debug\Console-RPGgame.exe
+D:\RPG game\Console-RPGgame\bin\Debug\Console-RPGgame.pdb
+D:\RPG game\Console-RPGgame\bin\Debug\Newtonsoft.Json.dll
+D:\RPG game\Console-RPGgame\bin\Debug\Newtonsoft.Json.xml
+D:\RPG game\Console-RPGgame\obj\Debug\Console-RPGgame.csproj.AssemblyReference.cache
+D:\RPG game\Console-RPGgame\obj\Debug\Console-RPGgame.csproj.CoreCompileInputs.cache
+D:\RPG game\Console-RPGgame\obj\Debug\Console-RPGgame.csproj.CopyComplete
+D:\RPG game\Console-RPGgame\obj\Debug\Console-RPGgame.exe
+D:\RPG game\Console-RPGgame\obj\Debug\Console-RPGgame.pdb
